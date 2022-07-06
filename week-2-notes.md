@@ -3,6 +3,6 @@
 ### "Make" vs Clang
 - Clang: The compiler that converts the source code to machine code.
 - "Make": Automates this process, and is a useful tool to make things easier for when the code becomes more complicated. It "makes" it all happen.
-  - "-o" tells clang to "output" the file...
+  - "-o" tells clang to "output" the file... ''' clang -o hello hello.c -lcs50 '''
 ### Compiling
 - 
