@@ -13,3 +13,5 @@ __Debugging__ - You will always write code contained in bugs. How do you remove 
 Diagnose the problem. Utilize "Print" or an equivelent to better understand the problem.
 
 A debugger allows for an in depth walkthrough of code. Step through your code "step by step" by utilizing a debugger. (Rather than repetative "print" statements.
+
+Rubber Duck Debugging? 🦆 - Just talk through your problems when Programming Bugs arrise. Simply hearing yourself can better help you to understand and discern the logic of what could be the problem.
