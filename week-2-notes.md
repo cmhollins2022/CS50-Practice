@@ -7,6 +7,6 @@ __Preprocessing - "Make" vs Clang__
   - "-o" tells clang to "output" the file... ```clang -o hello hello.c -lcs50```
 
 __Compiling__
-- Take code in the computers memory, then converts it into the assembly language.
+Take code in the computers memory, then converts it into the assembly language.
 
 __Assembly__
