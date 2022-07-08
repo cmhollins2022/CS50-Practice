@@ -23,4 +23,4 @@ __Types__:
 - float: 4 bytes
 - int: 4 bytes
 - long: 8 bytes
-- string: 7 bytes
+- string: ? bytes
