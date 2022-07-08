@@ -24,3 +24,5 @@ __Types__:
 - int: 4 bytes
 - long: 8 bytes
 - string: ? bytes
+
+__Memory__ - Data that is taking up some number of Bytes.
