@@ -15,3 +15,12 @@ Diagnose the problem. Utilize "Print" or an equivelent to better understand the 
 A debugger allows for an in depth walkthrough of code. Step through your code "step by step" by utilizing a debugger. (Rather than repetative "print" statements.
 
 Rubber Duck Debugging? 🦆 - Just talk through your problems when Programming Bugs arrise. Simply hearing yourself can better help you to understand and discern the logic of what could be the problem.
+
+__Types__:
+bool: 1 byte
+char: 8 bytes
+double: 4 bytes
+float: 4 bytes
+int: 4 bytes
+long: 8 bytes
+string: 7 bytes
