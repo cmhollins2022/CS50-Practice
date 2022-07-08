@@ -1,9 +1,7 @@
 # Lecture 2 - Arrays
 Quick reminder: _How to make and execute files in C..._
-```code file_name.c
-   make file_name
-```
-
+```code file_name.c```
+```make file_name```
 
 __Preprocessing - "Make" vs Clang__ - "Finds and replaces" the #includes and "copy and pastes" it into the code.
 - Clang: The compiler that converts the source code to machine code.
