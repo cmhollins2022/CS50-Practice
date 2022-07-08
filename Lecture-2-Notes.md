@@ -30,7 +30,7 @@ __Types__:
 - float: 4 bytes
 - int: 4 bytes
 - long: 8 bytes
-- string: ? bytes
+- string (an _array_ of characters): ? bytes
 
 __Memory__ - Data that is taking up some number of Bytes.
 
