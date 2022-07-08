@@ -1,5 +1,6 @@
 # Lecture 2 - Arrays
 Quick reminder: _How to make and execute files in C..._
+
 ```code file_name.c```
 ```make file_name```
 
