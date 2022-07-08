@@ -11,3 +11,5 @@ __Linkning__ - The linking command combines all of the different source code (0'
 
 __Debugging__ - You will always write code contained in bugs. How do you remove a bug? 🐜 🐞 🐛
 Diagnose the problem. Utilize "Print" or an equivelent to better understand the problem.
+
+A debugger allows for an in depth walkthrough of code.
