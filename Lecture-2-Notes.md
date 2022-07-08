@@ -32,4 +32,7 @@ __Types__:
 - long: 8 bytes
 - string: ? bytes
 
-__Memory__ - Data that is taking up some number of Bytes.s
+__Memory__ - Data that is taking up some number of Bytes.
+
+__Array__ - An array is a type of data that allows you to store multiple values of the same type contiguously, and describe them all under the same variable name.
+
