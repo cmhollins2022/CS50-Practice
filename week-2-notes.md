@@ -10,4 +10,4 @@ __Assembling__ - To assemble code is turned into source code, (0's and 1's).
 __Linkning__ - The linking command combines all of the different source code (0's and 1's) together, from the different programmers that may be included in a "compiled program".
 
 __Debugging__ - You will always write code contained in bugs. How do you remove a bug? 🐜 🐞 🐛
-Diagnose the problem. Utilize "Print" or an equivelent to see what the problem is.
+Diagnose the problem. Utilize "Print" or an equivelent to better understand the problem.
