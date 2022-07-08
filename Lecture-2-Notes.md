@@ -36,3 +36,4 @@ __Memory__ - Data that is taking up some number of Bytes.
 
 __Array__ - An array is a type of data that allows you to store multiple values of the same type contiguously, and describe them all under the same variable name.
 
+__Nul__ = \0, comes as a byte at the end of a string to differ it from the start of the next string.
