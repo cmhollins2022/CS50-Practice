@@ -37,3 +37,8 @@ Big θ (Theta) is used when... you have a case where both the upper-bound on an 
 - θ(n)
 - θ(log n)
 - θ(1)
+
+### Liner Search
+
+
+### Binary Search
