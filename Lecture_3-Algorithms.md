@@ -15,12 +15,14 @@ How is a program better designed than another?
 - When the numbers become so big, we can use different algorithms combined with "Big O" Notation to better optimize the code.
 - A way to describe running time in mathematical notation.
 ### Common Running Times
+(Big O is on the order of (that is, an "upper-bound") for how many steps an algorithm might take. (On the order of, so many steps.)
+
 - O(n^2)
 - O(n log n)
 - O(n)
 - O(log n)
 - O(1)
-(Big O is on the order of (that is, an "upper-bound") for how many steps an algorithm might take. (On the order of, so many steps.)
+
 
 Lower-Bound Notation - Ω (Omega)
 Ω(n^2)
