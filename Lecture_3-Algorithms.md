@@ -13,3 +13,6 @@ How is a program better designed than another?
 
 **Efficiency of Algorithms** - Running time can be quantified by _"Big O"_ Notation.
 - When the numbers become so big, we can use different algorithms combined with "Big O" Notation to better optimize the code.
+- A way to describe running time in mathematical notation.
+
+O(n^2)
