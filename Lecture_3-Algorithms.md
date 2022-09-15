@@ -25,8 +25,8 @@ How is a program better designed than another?
 
 
 Lower-Bound Notation - Ω (Omega)
-Ω(n^2)
-Ω(n log n)
-Ω(n)
-Ω(log n)
-Ω(1)
+- Ω(n^2)
+- Ω(n log n)
+- Ω(n)
+- Ω(log n)
+- Ω(1)
