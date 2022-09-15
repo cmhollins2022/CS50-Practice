@@ -7,4 +7,9 @@ has the number 0.
 
 ### Searching
 
-We want some input to become 
+How is a program better designed than another?
+- The quality of the code
+- The quality of the preformance
+
+**Efficiency of Algorithms** - Running time can be quantified by _"Big O"_ Notation.
+- When the numbers become so big, we can use different algorithms combined with "Big O" Notation to better optimize the code.
