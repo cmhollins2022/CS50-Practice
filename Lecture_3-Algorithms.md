@@ -30,3 +30,10 @@ Lower-Bound Notation - Ω (Omega)
 - Ω(n)
 - Ω(log n)
 - Ω(1)
+
+Big θ (Theta) is used when... you have a case where both the upper-bound on an algorithm's running time is the same as the lower-bound.
+- Ω(n^2)
+- Ω(n log n)
+- Ω(n)
+- Ω(log n)
+- Ω(1)
